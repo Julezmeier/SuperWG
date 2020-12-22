@@ -234,7 +234,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"tilesets\/floortileset.png",
+         "image":"floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -284,7 +284,7 @@
         {
          "columns":16,
          "firstgid":65,
-         "image":"tilesets\/tilesets_deviant_milkian_1.png",
+         "image":"tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -352,7 +352,7 @@
         {
          "columns":18,
          "firstgid":321,
-         "image":"tilesets\/building.jpg",
+         "image":"building.jpg",
          "imageheight":320,
          "imagewidth":576,
          "margin":0,
@@ -438,7 +438,7 @@
         {
          "columns":24,
          "firstgid":501,
-         "image":"tilesets\/kitchen.png",
+         "image":"kitchen.png",
          "imageheight":768,
          "imagewidth":768,
          "margin":0,
@@ -461,7 +461,7 @@
         {
          "columns":16,
          "firstgid":1077,
-         "image":"tilesets\/lounge.png",
+         "image":"lounge.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -655,7 +655,7 @@
         {
          "columns":8,
          "firstgid":1333,
-         "image":"tilesets\/garden.png",
+         "image":"garden.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -696,7 +696,7 @@
         {
          "columns":16,
          "firstgid":1397,
-         "image":"tilesets\/interior.png",
+         "image":"interior.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -719,7 +719,7 @@
         {
          "columns":16,
          "firstgid":1653,
-         "image":"tilesets\/trees.png",
+         "image":"trees.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -751,7 +751,7 @@
         {
          "columns":12,
          "firstgid":1909,
-         "image":"tilesets\/officetiles.png",
+         "image":"officetiles.png",
          "imageheight":768,
          "imagewidth":384,
          "margin":0,
@@ -764,7 +764,7 @@
         {
          "columns":16,
          "firstgid":2197,
-         "image":"tilesets\/food.png",
+         "image":"food.png",
          "imageheight":352,
          "imagewidth":512,
          "margin":0,
@@ -777,7 +777,7 @@
         {
          "columns":24,
          "firstgid":2373,
-         "image":"tilesets\/tv.png",
+         "image":"tv.png",
          "imageheight":768,
          "imagewidth":768,
          "margin":0,
@@ -818,7 +818,7 @@
         {
          "columns":24,
          "firstgid":2949,
-         "image":"tilesets\/custom.png",
+         "image":"custom.png",
          "imageheight":768,
          "imagewidth":768,
          "margin":0,
@@ -913,7 +913,7 @@
         {
          "columns":24,
          "firstgid":3525,
-         "image":"tilesets\/custom2.png",
+         "image":"custom2.png",
          "imageheight":768,
          "imagewidth":768,
          "margin":0,
